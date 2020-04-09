@@ -18,3 +18,5 @@ if type1 == "2": # гипербола
 	a_sqr = Fraction((-x1**2 * y2**2 + x2**2 * y1**2)/(y1**2 - y2**2))
 	b_sqr = Fraction(y2**2/((x2**2/a_sqr)-1))
 	print(str(1/a_sqr) + "* x^2 - y^2 *"+ str(1/b_sqr) + "=1")
+	
+	
